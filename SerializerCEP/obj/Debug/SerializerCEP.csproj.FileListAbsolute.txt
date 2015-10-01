@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\bin\Debug\SerializerCEP.exe.config
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\bin\Debug\SerializerCEP.exe
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\bin\Debug\SerializerCEP.pdb
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\obj\Debug\SerializerCEP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\obj\Debug\SerializerCEP_MarkupCompile.cache
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\obj\Debug\SerializerCEP.g.resources
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\obj\Debug\SerializerCEP.Properties.Resources.resources
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\obj\Debug\SerializerCEP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\obj\Debug\SerializerCEP.exe
+C:\Users\admin\Desktop\SerializerCEP\SerializerCEP\obj\Debug\SerializerCEP.pdb
